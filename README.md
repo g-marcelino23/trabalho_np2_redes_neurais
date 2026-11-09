@@ -33,14 +33,6 @@ FashionMNIST: 70.000 imagens, com 48.000 para treinamento, 12.000 para validaç�
 
 Os resultados podem variar em novas execuções devido a processos aleatórios. O notebook contém os gráficos de loss/acurácia, matriz de confusão e análises.
 
-## Como executar no Google Colab
-1. Abra https://colab.research.google.com/.
-2. Carregue `NP2_Redes_Neurais_FashionMNIST_GabrielMarcelino.ipynb`.
-3. Execute todas as células em ordem, do começo ao fim.
-
-## Conformidade com o enunciado
-O Scikit-Learn foi utilizado apenas na divisão inicial dos dados e no cálculo de métricas. Não há estimadores preditivos do Scikit-Learn nem uso de Lightning, FastAI ou Keras para automatizar o treinamento.
-
 ## Arquivos
 - `NP2_Redes_Neurais_FashionMNIST_GabrielMarcelino.ipynb` — notebook completo com saídas.
 - `requirements.txt` — bibliotecas.
