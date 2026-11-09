@@ -1,0 +1,11 @@
+# Dados baixados automaticamente
+/dados/
+
+# Arquivos locais
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.DS_Store
